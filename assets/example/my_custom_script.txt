@@ -1,0 +1,100 @@
+WELCOME Trump$^1#!join
+
+Trump:  
+**Who here ordered a Trump Tower Meal™?** 🍔🍟$^2#!message  
+__Best burger, everyone says so.__$^1.5#!pop
+
+WELCOME Billy$^1.5#!join
+
+Billy:  
+Bro this ain't even Uber Eats$^1.5#!vineboom  
+💀$^1#!pop
+
+WELCOME KimJongun$^1#!join
+
+KimJongun:  
+__I demand 17 chicken buckets and 1 nuclear fries.__ 🍗🍟$^2#!message  
+**OR ELSE.**$^1.5#!hehascome
+
+Trump:  
+@KimJongun **You're banned from McDonald's.**$^1#!error
+
+KimJongun:  
+@Trump **YOUR HAIR IS MADE OF COTTON CANDY** 💀$^2#!message
+
+Billy:  
+😭😭💀 not the cotton candy hair$^2#!softmessage
+
+WELCOME Modi$^1#!join
+
+Modi:  
+Can someone order me butter chicken or do I have to hack the menu?$^2.5#!typing
+
+Billy:  
+NO BRO THIS AINT ZOMATO 💀$^1.5#!vineboom
+
+Trump:  
+**I HAVE THE NUCLEAR CODES AND COUPONS**$^2#!modeugene  
+__Respect me.__$^1#!pop
+
+WELCOME JoeBiden$^1#!join
+
+JoeBiden:  
+wait... is this dominos$^2#!confusion  
+or did i walk into subway$^1.5#!message
+
+Billy:  
+bro u walked into a group therapy session 💀$^2#!error
+
+WELCOME Elizabeth$^1#!join
+
+Elizabeth:  
+I requested tea and crumpets, not a war meeting 😒$^2#!pop  
+__Someone get me Earl Grey.__$^1.5#!softmessage
+
+KimJongun:  
+**I DRINK TEARS OF ENEMIES WITH MY BURGER** 🍔🩸$^2#!explosion
+
+Elizabeth:  
+@KimJongun You need therapy, not ketchup$^2#!message
+
+WELCOME Pizza$^1#!join
+
+Pizza:  
+GUYS I HACKED THE MENU$^2#!typing  
+Added pineapple to EVERY pizza 😈🍍$^2#!zap  
+**NO ONE IS SAFE**$^1.5#!modpablo
+
+Billy:  
+YOU MONSTER 💀$^2#!scary  
+Pineapple on pizza should be a war crime$^1.5#!message
+
+Trump:  
+**PINEAPPLE IS PATRIOTIC** 🇺🇸🍍$^2#!error
+
+JoeBiden:  
+did someone say pie napple$^1.5#!confusion  
+i love apple pie$^1#!message
+
+Pizza:  
+💀 i give up$^1#!pop  
+ordering salad for everyone$^1#!error  
+**WITH RAISINS** 😈$^2#!vineboom
+
+Billy:  
+bro delete this group rn$^2#!error  
+im about to eat air at this point 💀$^2#!pop
+
+Elizabeth:  
+Guess I’ll haunt Uber Eats$^1.5#!scary  
+__again__$^0.5#!vineboom  
+💀$^1.5#!softmessage
+
+Trump:  
+**MY BURGER IS STILL BETTER THAN YOUR GHOST SNACKS** 🍔$^2#!message
+
+KimJongun:  
+**THIS ISN’T FOOD. THIS IS WAR.** 🚀🍗$^2#!explosion
+
+Billy:  
+💀 nah im fasting after this$^1.5#!leave
