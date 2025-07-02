@@ -56,6 +56,9 @@ MESSAGE_POSITIONS = [(MESSAGE_X, MESSAGE_Y_INIT + i * MESSAGE_DY) for i in range
 
 # Load fonts
 font = "whitney" # Change this according to the font you want to use
+# font_dir = os.path.join(f'../assets/fonts/{font}', 'semibold.ttf')
+# print(f"Looking for fonts in: {font_dir}")
+
 name_font = ImageFont.truetype(os.path.join(f'../assets/fonts/{font}', 'semibold.ttf'), NAME_FONT_SIZE)
 time_font = ImageFont.truetype(os.path.join(f'../assets/fonts/{font}', 'semibold.ttf'), TIME_FONT_SIZE)
 message_font = ImageFont.truetype(os.path.join(f'../assets/fonts/{font}', 'medium.ttf'), MESSAGE_FONT_SIZE)

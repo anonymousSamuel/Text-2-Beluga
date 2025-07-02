@@ -1,26 +1,46 @@
 {
-    "Billy": {
-        "profile_pic": "perm/billy.jpeg",
-        "role_color": "#ffffff"
-    },
-    "Pizza": {
-        "profile_pic": "perm/pizza.jpeg",
-        "role_color": "#ffcc6e"
-    },
-    "Nerd": {
-        "profile_pic": "perm/nerd.jpg",
-        "role_color": "#9cffa1"
-    },
-    "Cashew": {
-        "profile_pic": "perm/cashew.jpg",
-        "role_color": "#f2b8ff"
-    },
-    "Peanut": {
-        "profile_pic": "perm/peanut.png",
-        "role_color": "#7885ff"
-    },
-    "Cheddar": {
-        "profile_pic": "perm/cheddar.png",
-        "role_color": "#ff7878"
-    }
+  "Billy": {
+    "profile_pic": "perm/billy.jpeg",
+    "role_color": "#ffffff"
+  },
+  "Pizza": {
+    "profile_pic": "perm/pizza.jpeg",
+    "role_color": "#ffcc6e"
+  },
+  "Nerd": {
+    "profile_pic": "perm/nerd.jpg",
+    "role_color": "#9cffa1"
+  },
+  "Cashew": {
+    "profile_pic": "perm/cashew.jpg",
+    "role_color": "#f2b8ff"
+  },
+  "Peanut": {
+    "profile_pic": "perm/peanut.png",
+    "role_color": "#7885ff"
+  },
+  "Cheddar": {
+    "profile_pic": "perm/cheddar.png",
+    "role_color": "#ff7878"
+  },
+  "KimJongun": {
+    "profile_pic": "perm/kimjongun.png",
+    "role_color": "#ff6b6b"
+  },
+  "JoeBiden": {
+    "profile_pic": "perm/joebiden.png",
+    "role_color": "#4dabf7"
+  },
+  "Modi": {
+    "profile_pic": "perm/modi.png",
+    "role_color": "#ffa94d"
+  },
+  "Trump": {
+    "profile_pic": "perm/trump.png",
+    "role_color": "#ffd43b"
+  },
+  "Elizabeth": {
+    "profile_pic": "perm/elizabeth.png",
+    "role_color": "#d0bfff"
+  }
 }
